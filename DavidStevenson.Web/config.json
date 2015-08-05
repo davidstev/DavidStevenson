@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "DavidStevenson.Web"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DavidStevenson.Web-77ad0e81-e4f5-44ce-a76e-e8aa012abb04;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
